@@ -12,7 +12,7 @@ class App < Sinatra::Base
   end
 
   get '/favorite-song' do
-    "My hometown is Gotham"
+    "Happy by Pharell Williams"
   end
 
 end
