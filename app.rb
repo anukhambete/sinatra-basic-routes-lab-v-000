@@ -12,7 +12,7 @@ class App < Sinatra::Base
   end
 
   get '/favorite-song' do
-    "Happy by Pharell Williams"
+    "My favorite song is Happy by Pharell Williams"
   end
 
 end
