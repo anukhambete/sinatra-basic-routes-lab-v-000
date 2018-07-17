@@ -11,7 +11,7 @@ class App < Sinatra::Base
   end
 
   get '/hometown' do
-    "My name is Batman"
+    "My hometown is Gotham"
   end
 
 
